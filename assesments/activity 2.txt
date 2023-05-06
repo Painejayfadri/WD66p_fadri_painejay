@@ -1,0 +1,7 @@
+
+ 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
+https://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@github.com/Painejayfadri/WD66p_fadri_painejay.git
+
+Pattern: https://<token>@github.com/username/project.git
+
+https://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@github.com/chellemich06/WD66P_Group12_Activities.git
